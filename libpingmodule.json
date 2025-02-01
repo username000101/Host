@@ -1,5 +1,6 @@
 "Ping module": {
 	"path": "/path/to/libpingmodule.so",
+	"name": "Ping module(?)",
 	"version": "1.0",
 	"author": "username000101",
 	"description": "Just a ping module for LIT",
