@@ -1,0 +1,11 @@
+"HAnim module": {
+	"path": "/path/to/libhanimmodule.so",
+	"name": "Heart animation module",
+	"version": "1.0",
+	"author": "username000101",
+	"description": "Heart animation(?)",
+	"aliases": {
+		"hanim": "heart_animation",
+		"ily": "heart_animation"
+	}
+}
